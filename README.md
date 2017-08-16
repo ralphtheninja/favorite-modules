@@ -18,6 +18,10 @@ Dominic has solved the configuration problem once and for all. Provide default v
 
 A safer node.js Buffer API. Works in the browser.
 
+#### [`sinon`](http://sinonjs.org/)
+
+Spies, stubs and mocks for JavaScript. Very advanced. I'm only using it for spies and stubs. Also just a module so easy to use as a complement to [`tape`](https://github.com/substack/tape).
+
 #### [`sodium-universal`](https://github.com/sodium-friends/sodium-universal)
 
 Need crypto? Want it to work in both node and in the browser? For the node case, there are prebuilt binaries for all major OS. If prebuilt fails, then falls back to pure js. Backed by [f`libsodium`](https://github.com/jedisct1/libsodium).
