@@ -6,19 +6,19 @@ My favorite node modules with a very brief explanation of the intent or use case
 
 Colors and styling for the terminal.
 
-#### [`nodemon`](https://nodemon.io/)
+#### [`nodemon`](https://nodemon.io/) :wrench:
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
 
-#### [`prebuild`](https://github.com/mafintosh/prebuild)
+#### [`prebuild`](https://github.com/mafintosh/prebuild) :wrench:
 
 Creates prebuilt native modules and uploads to github.
 
-#### [`prebuild-ci`](https://github.com/juliangruber/prebuild-ci)
+#### [`prebuild-ci`](https://github.com/juliangruber/prebuild-ci) :wrench:
 
 Runs `prebuild` in your ci environment whenever a module has updated its version.
 
-#### [`prebuild-install`](https://github.com/mafintosh/prebuild-install)
+#### [`prebuild-install`](https://github.com/mafintosh/prebuild-install) :wrench:
 
 Downloads prebuilt binaries for native modules.
 
@@ -38,7 +38,7 @@ Spies, stubs and mocks for JavaScript. Very advanced. I'm only using it for spie
 
 Need crypto? Want it to work in both node and in the browser? For the node case, there are prebuilt binaries for all major OS. If prebuilt fails, then falls back to pure js. Backed by [f`libsodium`](https://github.com/jedisct1/libsodium).
 
-#### [`standard`](https://github.com/feross/standard)
+#### [`standard`](https://github.com/feross/standard) :wrench:
 
 A JavaScript coding style. Just embrace it, get rid of all bike shedding and move on to more important stuff.
 
