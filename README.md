@@ -10,6 +10,18 @@ Colors and styling for the terminal.
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
 
+#### [`prebuild`](https://github.com/mafintosh/prebuild)
+
+Creates prebuilt native modules and uploads to github.
+
+#### [`prebuild-ci`](https://github.com/juliangruber/prebuild-ci)
+
+Runs `prebuild` in your ci environment whenever a module has updated its version.
+
+#### [`prebuild-install`](https://github.com/mafintosh/prebuild-install)
+
+Downloads prebuilt binaries for native modules.
+
 #### [`rc`](https://github.com/dominictarr/rc)
 
 Dominic has solved the configuration problem once and for all. Provide default values for your config and override using command line arguments and/or configuration files and/or environment variables. Support for `.json` and `.ini` formats.
