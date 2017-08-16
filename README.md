@@ -2,6 +2,10 @@
 
 My favorite node modules with a very brief explanation of the intent or use case.
 
+#### [`rc`](https://github.com/dominictarr/rc)
+
+Dominic has solved the configuration problem once and for all. Provide default values for your config and override using command line arguments and/or configuration files and/or environment variables. Support for `.json` and `.ini` formats.
+
 #### [`safe-buffer`](https://github.com/feross/safe-buffer)
 
 A safer node.js Buffer API. Works in the browser.
