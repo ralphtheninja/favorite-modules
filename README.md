@@ -6,6 +6,10 @@ My favorite node modules with a very brief explanation of the intent or use case
 
 Colors and styling for the terminal.
 
+#### [`nodemon`](https://nodemon.io/)
+
+Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
+
 #### [`rc`](https://github.com/dominictarr/rc)
 
 Dominic has solved the configuration problem once and for all. Provide default values for your config and override using command line arguments and/or configuration files and/or environment variables. Support for `.json` and `.ini` formats.
