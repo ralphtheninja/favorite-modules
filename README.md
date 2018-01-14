@@ -90,6 +90,10 @@ Need crypto? Want it to work in both node and in the browser? For the node case,
 
 A JavaScript coding style. Just embrace it, get rid of all bike shedding and move on to more important stuff.
 
+#### [`subleveldown`](https://github.com/mafintosh/subleveldown)
+
+Sublevels implemented using leveldowns. Fits really well with `level`.
+
 #### [`tape`](https://github.com/substack/tape) :white_check_mark:
 
 Simple and minimalistic test module. Since it's just a function it can be composed endlessly. Produces `TAP` (Test Anything Protocol) output which in turn can be formatted to your liking.
