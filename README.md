@@ -1,6 +1,6 @@
 # :sparkles: favorite-modules :sparkles:
 
-My favorite node modules with a very brief explanation of the intent or use case.
+> My favorite node modules with a very brief explanation of the intent or use case.
 
 #### [`after`](https://github.com/Raynos/after#readme)
 
