@@ -26,6 +26,10 @@ Human readable `TAP` summarizer. Pipe output from e.g. `tape` to make the output
 
 Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
 
+#### [`jsonist`](https://github.com/rvagg/jsonist)
+
+Perfect when you are using a `REST` api with `JSON` output. Uses `hyperquest` under the hood.
+
 #### [`monotonic-timestamp`](https://github.com/dominictarr/monotonic-timestamp)
 
 Monotonically increasing timestamps. Use instead of `Date.now()` to avoid getting identical timestamps on the same tick.
