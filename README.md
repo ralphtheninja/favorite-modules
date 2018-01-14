@@ -14,6 +14,10 @@ Colors and styling for the terminal.
 
 CLI interfaces maded easy.
 
+#### [`hyperquest`](https://github.com/substack/hyperquest)
+
+Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
+
 #### [`nodemon`](https://nodemon.io/) :wrench:
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
