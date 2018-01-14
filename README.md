@@ -10,6 +10,10 @@ Invoke callback after n calls.
 
 Async swiss army knife for node and the browser.
 
+#### [`bl`](https://github.com/rvagg/bl)
+
+Awesome `Buffer` helper module.
+
 #### [`chalk`](https://github.com/chalk/chalk#readme)
 
 Colors and styling for the terminal.
