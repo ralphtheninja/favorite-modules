@@ -14,15 +14,15 @@ CLI interfaces maded easy.
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
 
-#### [`prebuild`](https://github.com/mafintosh/prebuild) :wrench:
+#### [`prebuild`](https://github.com/prebuild/prebuild) :wrench:
 
 Creates prebuilt native modules and uploads to github.
 
-#### [`prebuild-ci`](https://github.com/juliangruber/prebuild-ci) :wrench:
+#### [`prebuild-ci`](https://github.com/prebuild/prebuild-ci) :wrench:
 
 Runs `prebuild` in your ci environment whenever a module has updated its version.
 
-#### [`prebuild-install`](https://github.com/mafintosh/prebuild-install) :wrench:
+#### [`prebuild-install`](https://github.com/prebuild/prebuild-install) :wrench:
 
 Downloads prebuilt binaries for native modules.
 
