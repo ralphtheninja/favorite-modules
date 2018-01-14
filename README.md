@@ -22,6 +22,10 @@ Colors and styling for the terminal.
 
 CLI interfaces maded easy.
 
+#### [`debug`](https://github.com/visionmedia/debug#readme)
+
+Debugging utility for node and the browser.
+
 #### [`faucet`](https://github.com/substack/faucet) :white_check_mark:
 
 Human readable `TAP` summarizer. Pipe output from e.g. `tape` to make the output purdier. Also useful if you have a gazillion tiny tests and you want a smaller more digestable test output.
