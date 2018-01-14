@@ -2,6 +2,10 @@
 
 My favorite node modules with a very brief explanation of the intent or use case.
 
+#### [`async`](https://github.com/caolan/async)
+
+Async swiss army knife for node and the browser.
+
 #### [`chalk`](https://github.com/chalk/chalk#readme)
 
 Colors and styling for the terminal.
