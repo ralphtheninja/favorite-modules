@@ -1,4 +1,4 @@
-# favorite-modules
+# :sparkles: favorite-modules :sparkles:
 
 My favorite node modules with a very brief explanation of the intent or use case.
 
