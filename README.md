@@ -18,6 +18,10 @@ CLI interfaces maded easy.
 
 Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
 
+#### [`monotonic-timestamp`](https://github.com/dominictarr/monotonic-timestamp)
+
+Monotonically increasing timestamps. Use instead of `Date.now()` to avoid getting identical timestamps on the same tick.
+
 #### [`nodemon`](https://github.com/remy/nodemon) :wrench:
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
