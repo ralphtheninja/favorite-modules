@@ -102,6 +102,10 @@ Sublevels implemented using leveldowns. Fits really well with `level`.
 
 Simple and minimalistic test module. Since it's just a function it can be composed endlessly. Produces `TAP` (Test Anything Protocol) output which in turn can be formatted to your liking.
 
+#### [`tar-stream`](https://github.com/mafintosh/tar-stream)
+
+Platform independent streaming tar parser and generator.
+
 #### [`xtend`](https://github.com/Raynos/xtend)
 
 Extend javascript object literals.
