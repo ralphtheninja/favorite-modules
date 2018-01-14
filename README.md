@@ -18,6 +18,10 @@ Colors and styling for the terminal.
 
 CLI interfaces maded easy.
 
+#### [`faucet`](https://github.com/substack/faucet) :white_check_mark:
+
+Human readable `TAP` summarizer. Pipe output from e.g. `tape` to make the output purdier. Also useful if you have a gazillion tiny tests and you want a smaller more digestable test output.
+
 #### [`hyperquest`](https://github.com/substack/hyperquest)
 
 Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
