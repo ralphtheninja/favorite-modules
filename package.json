@@ -2,13 +2,8 @@
   "name": "favorite-modules",
   "version": "1.0.0",
   "description": "My favorite node modules with a very brief explanation of the intent or use case.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "safe-buffer": "^5.1.1",
     "sodium-universal": "^1.4.0"

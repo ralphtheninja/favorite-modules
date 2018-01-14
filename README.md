@@ -113,3 +113,7 @@ Platform independent streaming tar parser and generator.
 #### [`xtend`](https://github.com/Raynos/xtend)
 
 Extend javascript object literals.
+
+# License
+
+MIT
