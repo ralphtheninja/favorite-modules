@@ -34,6 +34,10 @@ Human readable `TAP` summarizer. Pipe output from e.g. `tape` to make the output
 
 Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
 
+#### [`inherits`](https://github.com/isaacs/inherits#readme)
+
+Browser-friendly inheritance fully compatible with standard node.js inherits.
+
 #### [`jsonist`](https://github.com/rvagg/jsonist)
 
 Perfect when you are using a `REST` api with `JSON` output. Uses `hyperquest` under the hood.
