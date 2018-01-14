@@ -30,6 +30,10 @@ Downloads prebuilt binaries for native modules.
 
 Dominic has solved the configuration problem once and for all. Provide default values for your config and override using command line arguments and/or configuration files and/or environment variables. Support for `.json` and `.ini` formats.
 
+#### [`rimraf`](https://github.com/isaacs/rimraf#readme) :white_check_mark:
+
+`rm -rf` for node. Extremely useful in many different contexts.
+
 #### [`safe-buffer`](https://github.com/feross/safe-buffer)
 
 A safer node.js Buffer API. Works in the browser.
