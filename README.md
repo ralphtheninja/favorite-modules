@@ -18,7 +18,7 @@ CLI interfaces maded easy.
 
 Streaming http request the right way. Much less bloated than `request`. Clean streaming interface.
 
-#### [`nodemon`](https://nodemon.io/) :wrench:
+#### [`nodemon`](https://github.com/remy/nodemon) :wrench:
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
 
@@ -46,7 +46,7 @@ Dominic has solved the configuration problem once and for all. Provide default v
 
 A safer node.js Buffer API. Works in the browser.
 
-#### [`sinon`](http://sinonjs.org/) :white_check_mark:
+#### [`sinon`](https://github.com/sinonjs/sinon) :white_check_mark:
 
 Spies, stubs and mocks for JavaScript. Very advanced. I'm only using it for spies and stubs. Also just a module so easy to use as a complement to [`tape`](https://github.com/substack/tape).
 
