@@ -54,6 +54,10 @@ Monotonically increasing timestamps. Use instead of `Date.now()` to avoid gettin
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
 
+#### [`osenv`](https://github.com/npm/osenv#readme)
+
+Platform independent environment settings. Most typical use case is finding the `$HOME` folder for a user.
+
 #### [`prebuild`](https://github.com/prebuild/prebuild) :wrench:
 
 Creates prebuilt native modules and uploads to github.
