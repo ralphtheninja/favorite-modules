@@ -38,6 +38,10 @@ Streaming http request the right way. Much less bloated than `request`. Clean st
 
 Perfect when you are using a `REST` api with `JSON` output. Uses `hyperquest` under the hood.
 
+#### [`level`](https://github.com/level/level)
+
+`LevelDB` for node.
+
 #### [`mkdirp`](https://github.com/substack/node-mkdirp#readme) :white_check_mark:
 
 Just as useful as `rimraf`. Ensuring a certain folder structure exists is often important. Can be called synchronously.
