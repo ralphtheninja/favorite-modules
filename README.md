@@ -6,6 +6,10 @@ My favorite node modules with a very brief explanation of the intent or use case
 
 Colors and styling for the terminal.
 
+#### [`commander`](https://github.com/tj/commander.js#readme)
+
+CLI interfaces maded easy.
+
 #### [`nodemon`](https://nodemon.io/) :wrench:
 
 Monitor changes and restart processes. Use in place of `node`. Poor mans tdd: `alias tdd=nodemon -x npm test`
