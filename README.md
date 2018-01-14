@@ -2,6 +2,10 @@
 
 My favorite node modules with a very brief explanation of the intent or use case.
 
+#### [`after`](https://github.com/Raynos/after#readme)
+
+Invoke callback after n calls.
+
 #### [`async`](https://github.com/caolan/async)
 
 Async swiss army knife for node and the browser.
