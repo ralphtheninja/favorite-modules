@@ -94,6 +94,10 @@ Spies, stubs and mocks for JavaScript. Very advanced. I'm only using it for spie
 
 Need crypto? Want it to work in both node and in the browser? For the node case, there are prebuilt binaries for all major OS. If prebuilt fails, then falls back to pure js. Backed by [`libsodium`](https://github.com/jedisct1/libsodium).
 
+#### [`split2`](https://github.com/mcollina/split2#readme)
+
+Split a readable stream based on a regular expression. Most common use case is to split a stream based on newlines.
+
 #### [`standard`](https://github.com/feross/standard) :wrench: :white_check_mark:
 
 A JavaScript coding style. Just embrace it, get rid of all bike shedding and move on to more important stuff.
