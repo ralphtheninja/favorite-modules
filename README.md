@@ -78,6 +78,10 @@ Downloads prebuilt binaries for native modules.
 
 Dominic has solved the configuration problem once and for all. Provide default values for your config and override using command line arguments and/or configuration files and/or environment variables. Support for `.json` and `.ini` formats.
 
+#### [`remark`](https://remark.js.org/) :wrench:
+
+Markdown processor powered by plugins.
+
 #### [`rimraf`](https://github.com/isaacs/rimraf#readme) :white_check_mark:
 
 `rm -rf` for node. Extremely useful in many different contexts.
